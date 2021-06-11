@@ -1,1 +1,1 @@
-# whatsapp
+# whatsapp module prestashop
